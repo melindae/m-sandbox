@@ -1,0 +1,39 @@
+body {
+/*   background-image: url(../assets/images/1.jpg);
+  background-size: 100% 100%; */
+
+}
+
+#changeButton {
+  font-family: 'Arial';
+  font-size: 48px;
+  color: white;
+  width: 500px;
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -285px;
+  margin-top: -190px;
+
+}
+
+.red {
+
+  font-family: 'Georgia';
+  background: #8B0000;
+  border-radius: 10px;
+  border-style: outset;
+  border-width: medium;
+  border-color: #680000;
+}
+
+.blue {
+  font-family: 'Arial';
+  background: #4682B4;
+  border-radius: 40px;
+  border-style: outset;
+  border-width: medium;
+  border-color: #386890;
+}

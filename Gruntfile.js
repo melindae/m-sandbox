@@ -41,6 +41,8 @@ module.exports = function(grunt) {
                     './app/sass/**/*.scss',
                     './app/pages/**/*.html',
                     './app/templates/**/*.html',
+                    './app/assets/images/**/*.jpg',
+                    './app/assets/images/**/*.png',
                     'Gruntfile.js'
                 ],
                 tasks: [
